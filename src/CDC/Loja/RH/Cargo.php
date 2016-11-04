@@ -6,8 +6,8 @@ class Cargo
 {
     private $cargos = array(
         "desenvolvedor" => "CDC\\Loja\\RH\\DezOuVintePorCento",
-        "dba" => "CDC\\Loja\\RH\\QuinzeOuVinteECincoPorcento",
-        "testador" => "CDC\\Loja\\RH\\QuinzeOuVinteECincoPorcento",
+        "dba" => "CDC\\Loja\\RH\\QuinzeOuVinteECincoPorCento",
+        "testador" => "CDC\\Loja\\RH\\QuinzeOuVinteECincoPorCento",
     );
     private $regra;
 
